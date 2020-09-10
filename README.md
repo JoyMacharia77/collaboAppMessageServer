@@ -3,9 +3,9 @@ This is the WebSocket Server for our IAP Group Project. It is used in the Chat I
 This was built with NodeJS.
 Project Title: Collabo App
 Group Members:  (ICS 3B)
-1 Austin Gathii  110354
-2 Judith Faustini 111756
-3 Joy Macharia 111155
+1. Austin Gathii  110354
+2.Judith Faustini 111756
+3.Joy Macharia 111155
 STEPS TO RUN THE SERVER
 1. Open cmd with Administrator Rights.
 2. 'Cd..' or redirect to the folder containing the server, 'messageServer.js', the folder is 'collaboAppServers'
